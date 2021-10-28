@@ -1,5 +1,7 @@
 # Oshkosh M-ATV Terrain Vehicle
 
+<img src="https://raw.githubusercontent.com/yug2005/Oshkosh-M-ATV-Terrain-Vehicle/master/Project%20Images/Oshkosh%20M-ATV%20Project%20Image%2001.png"/>
+
 ## Summary
 
 This blender project contains a detailed and realistic 3D modelling of the all-terrain vehicle "Oshkosh M-ATV". The model has a total of 108,439 triangles and includes nearly all of the features that are present on the real vehicle. All components are UV mapped to allow for texture and material creation that are properly orientated on top of the mesh. 
